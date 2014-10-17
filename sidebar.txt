@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[yut:home|Door43 (yut)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-yut|d43-yut repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-yut/archive/master.zip|d43-yut.zip]]
+
+**Recent Changes**
+{{changes>ns = yut}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/yut|Ethnologue data]]
+
